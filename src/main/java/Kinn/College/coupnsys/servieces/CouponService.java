@@ -1,7 +1,7 @@
-package Kinn.College.CouponManagementSystem.servieces;
+package Kinn.College.coupnsys.servieces;
 
-import Kinn.College.CouponManagementSystem.entities.Coupon;
-import Kinn.College.CouponManagementSystem.repositories.CouponRepository;
+import Kinn.College.coupnsys.entities.Coupon;
+import Kinn.College.coupnsys.repositories.CouponRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

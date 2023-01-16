@@ -1,6 +1,6 @@
-package Kinn.College.CouponManagementSystem.repositories;
+package Kinn.College.coupnsys.repositories;
 
-import Kinn.College.CouponManagementSystem.entities.Coupon;
+import Kinn.College.coupnsys.entities.Coupon;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

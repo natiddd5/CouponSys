@@ -1,10 +1,7 @@
-package Kinn.College.CouponManagementSystem;
+package Kinn.College.coupnsys;
 
-import Kinn.College.CouponManagementSystem.servieces.CompanyService;
-import jakarta.annotation.PostConstruct;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.stereotype.Component;
 
 @SpringBootApplication
 public class CouponManagementSystemApplication {
